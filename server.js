@@ -42,11 +42,11 @@ let coin =  {
 
     'heads':{
         'msg': 'heads',
-        'imageUrl': 'https://raw.githubusercontent.com/JamalHall/MyCodeProjects/445190cf40f4fff4c6b426f65e94e0e067efe16d/Coin%20Flip%20API%20Fullstack%20Demo/images/heads.png'  , 
+        'imageUrl': 'https://github.com/JamalHall/Coin-Flip-Server-Side-Heroku/blob/1457918d54cc45212f4ab936d6a956ce9da8f754/images/heads.png'  , 
     },
 
     'tails':{
         'msg': 'tails',
-        'imageUrl': 'https://raw.githubusercontent.com/JamalHall/MyCodeProjects/445190cf40f4fff4c6b426f65e94e0e067efe16d/Coin%20Flip%20API%20Fullstack%20Demo/images/tails.png'  ,
+        'imageUrl': 'https://github.com/JamalHall/Coin-Flip-Server-Side-Heroku/blob/1457918d54cc45212f4ab936d6a956ce9da8f754/images/tails.png'  ,
     },
 }

@@ -28,9 +28,9 @@ const resFile = ()=>{
     x = Math.floor(Math.random()*2)
     console.log('flip ',x)
         if(x==0){
-            return coin.heads
+            return coin['heads']
         }else {
-            return coin.tails
+            return coin['tails']
             }
         }
 let coin =  {

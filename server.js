@@ -42,11 +42,11 @@ let coin =  {
 
     'heads':{
         'msg': 'heads',
-        'imageUrl': 'https://github.com/JamalHall/Coin-Flip-Server-Side-Heroku/blob/1457918d54cc45212f4ab936d6a956ce9da8f754/images/heads.png'  , 
+        'imageUrl': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQaeG3xye5CKqHNy2WYOX3fYgc5xUtug96INkoRafAblcqtDDhO_bCSi_dJ-hsesOGCE8&usqp=CAU'  , 
     },
 
     'tails':{
         'msg': 'tails',
-        'imageUrl': 'https://github.com/JamalHall/Coin-Flip-Server-Side-Heroku/blob/1457918d54cc45212f4ab936d6a956ce9da8f754/images/tails.png'  ,
+        'imageUrl': 'https://purepng.com/public/uploads/large/purepng.com-gold-coinsgoldatomic-number-79chemical-elementgroup-11-elementaurumgold-dustprecious-metalgold-coins-1701528978024pkgk8.png'  ,
     },
 }

@@ -47,6 +47,6 @@ let coin =  {
 
     'tails':{
         'msg': 'tails',
-        'imageUrl': 'https://purepng.com/public/uploads/large/purepng.com-gold-coinsgoldatomic-number-79chemical-elementgroup-11-elementaurumgold-dustprecious-metalgold-coins-1701528978024pkgk8.png'  ,
+        'imageUrl': 'https://catalog.usmint.gov/dw/image/v2/AARB_PRD/on/demandware.static/-/Sites-usm-master-catalog-us/default/dw36d1fa3b/images/hi-res/coins/Gold-Coins/17xa_b.jpg?sw=50'  ,
     },
 }
